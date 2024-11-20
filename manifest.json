@@ -11,52 +11,44 @@
     "lang": "es-MX",
     "icons": [
       {
-        "src": "images/Logo-VaqueraShop 16x16.jpg",
+        "src": "images/Logo-VaqueraShop 16x16.png",
         "sizes": "16x16",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop 32x32.jpg",
+        "src": "images/Logo-VaqueraShop 32x32.png",
         "sizes": "32x32",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop 64x64.jpg",
+        "src": "images/Logo-VaqueraShop 64x64.png",
         "sizes": "64x64",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop96x96.jpg",
+        "src": "images/Logo-VaqueraShop96x96.png",
         "sizes": "96x96",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop 128x128.jpg",
+        "src": "images/Logo-VaqueraShop 128x128.png",
         "sizes": "128x128",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop 384x384.jpg",
+        "src": "images/Logo-VaqueraShop 384x384.png",
         "sizes": "384x384",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop 512x512.jpg",
+        "src": "images/Logo-VaqueraShop 512x512.png",
         "sizes": "512x512",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       },
       {
-        "src": "images/Logo-VaqueraShop 1024x1024.jpg",
+        "src": "images/Logo-VaqueraShop 1024x1024.png",
         "sizes": "1024x1024",
-        "type": "image/jpg",
-        "from_factor": "wide"
+        "type": "image/png"
       }
     ]
   }

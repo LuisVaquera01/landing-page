@@ -3,15 +3,15 @@ const CACHE_NAME = "v1_cache_PWA";
 // Archivos que se almacenarán en la caché
 var urlsToCache = [
     './',
-    '/images/Logo-VaqueraShop 16x16.jpg',
-    '/images/Logo-VaqueraShop 32x32.jpg',
-    '/images/Logo-VaqueraShop 64x64.jpg',
-    '/images/Logo-VaqueraShop96x96.jpg',
-    '/images/Logo-VaqueraShop 128x128.jpg',
-    '/images/Logo-VaqueraShop 256x256.jpg',
-    '/images/Logo-VaqueraShop 384x384.jpg',
-    '/images/Logo-VaqueraShop 512x512.jpg',
-    '/images/Logo-VaqueraShop 1024x1024.jpg'
+    '/images/Logo-VaqueraShop 16x16.png',
+    '/images/Logo-VaqueraShop 32x32.png',
+    '/images/Logo-VaqueraShop 64x64.png',
+    '/images/Logo-VaqueraShop96x96.png',
+    '/images/Logo-VaqueraShop 128x128.png',
+    '/images/Logo-VaqueraShop 256x256.png',
+    '/images/Logo-VaqueraShop 384x384.png',
+    '/images/Logo-VaqueraShop 512x512.png',
+    '/images/Logo-VaqueraShop 1024x1024.png'
 ];
 
 //instalacion del service worker
