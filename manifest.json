@@ -1,0 +1,63 @@
+{
+    "name": "Portafolio",
+    "short_name": "Luis Vaquera CV",
+    "description": "Aplicación PWA CV personal Luis Vaquera",
+    "background_color": "#FFF",
+    "theme_color": "#FFF",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "images/Logo-VaqueraShop 16x16.jpg",
+        "sizes": "16x16",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop 32x32.jpg",
+        "sizes": "32x32",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop 64x64.jpg",
+        "sizes": "64x64",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop96x96.jpg",
+        "sizes": "96x96",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop 128x128.jpg",
+        "sizes": "128x128",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop 384x384.jpg",
+        "sizes": "384x384",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop 512x512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      },
+      {
+        "src": "images/Logo-VaqueraShop 1024x1024.jpg",
+        "sizes": "1024x1024",
+        "type": "image/jpg",
+        "from_factor": "wide"
+      }
+    ]
+  }
+  

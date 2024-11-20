@@ -1,0 +1,78 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #daa6a6;
+    text-align: center;
+}
+
+header {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header h2 {
+    margin: 10px 0 0;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.hero {
+    align-items: center;
+    padding: 50px 0;
+    background-color: #e9d2d2;
+    text-align: center;
+}
+
+.photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+section {
+    padding: 50px 0;
+}
+
+section h3 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.experience ul, .skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.experience ul li, .skills ul li {
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.contact p {
+    font-size: 1.2rem;
+}
+
+footer {
+    background-color: #ff0000;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
